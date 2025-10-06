@@ -1,6 +1,6 @@
 import { Github, Linkedin, Mail, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import profilePhoto from "@assets/profile phto_1759729325023.jpg";
+import profilePhoto from "@assets/profile phto_1759730713276.jpg";
 
 export default function Hero() {
   const scrollToSection = (href: string) => {
