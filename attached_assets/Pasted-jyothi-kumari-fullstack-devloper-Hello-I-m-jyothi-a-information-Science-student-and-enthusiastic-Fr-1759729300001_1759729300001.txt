@@ -1,0 +1,95 @@
+jyothi kumari
+fullstack devloper
+Hello! I’m jyothi,a information Science student and enthusiastic Front-End Developer.
+I enjoy building sleek, user-friendly web applications using React, Bootstrap, and Spring Boot.
+My goal is to create impactful digital solutions that combine great design with smooth functionality.
+fullstack devloper,software devloper
+
+Hi, I’m Jyothi, a passionate Full-Stack Developer currently pursuing my studies at City Engineering College.
+
+My journey into technology began with a deep curiosity about how websites and applications come to life. What started as exploring basic web pages soon turned into a genuine passion for building dynamic, user-centered applications that solve real problems.
+
+Throughout my learning path, I’ve developed solid skills in React, JavaScript, HTML, CSS, Spring Boot, and MySQL, which allow me to build complete web solutions — from beautiful interfaces to powerful backends. I love blending design and logic to create seamless digital experiences.
+
+I’ve worked on several exciting projects that helped me grow as a developer, including:
+🎵 Music Application – an interactive platform that allows users to upload, explore, and manage their favorite tracks.
+💬 Chat Application – a real-time communication app with secure message storage and a clean user experience.
+📄 Resume Assist – a smart resume helper that extracts and organizes information to help users create professional profiles easily.
+
+Each project has strengthened my ability to think critically, write clean code, and deliver complete, functional solutions.
+
+Beyond coding, I’m passionate about learning new technologies, improving user interfaces, and turning creative ideas into meaningful digital products. I believe that every line of code should make someone’s experience smoother, faster, and more enjoyable.
+
+In the future, I aspire to become a skilled full-stack engineer contributing to innovative web applications that make a real impact. Technology is always evolving, and I’m excited to grow alongside it — learning, building, and sharing along the way.
+
+When I’m not coding, you’ll find me exploring new design ideas, staying up-to-date with the latest in web trends, or simply brainstorming my next project.
+
+skills:java,springboot,react,bootstap,css,html,javascript,mysql,mongodb,oops,excel,powerbi,git,intellji,postman
+problem solving skill ,clean code and debugging
+
+workexpernce:Full Stack Developer Intern
+
+EY Foundation | dec 2024-jan2025
+
+Worked as a Full Stack Developer Intern, contributing to the design and development of interactive web applications that improved overall performance and user engagement.
+
+Built and maintained responsive user interfaces using React.js and integrated RESTful APIs for dynamic data handling.
+
+Optimized page load speed by 30% and enhanced UI responsiveness across different devices.
+
+Implemented reusable React components to ensure cleaner, maintainable code and improve productivity.
+
+Music Application
+
+Technologies Used: Node.js, React.js, MongoDB
+Description:
+A personal music-sharing platform where users can upload, like, and manage their favorite tracks. It also provides trending music suggestions and interactive features for a smooth listening experience.
+Key Features:
+
+Upload and delete personal tracks
+
+Like/unlike songs and explore trending music
+
+Responsive design for desktop and mobile devices
+
+Simple, user-friendly interface
+Links:
+🔗 GitHub Repository
+ | 🌐 Live Demo
+
+💬 Chat Application
+
+Technologies Used: React.js, Node.js, Socket.io, Java Spring Boot, MySQL
+Description:
+A real-time messaging platform enabling secure and instant communication between users. The app supports persistent chats and a seamless interactive experience.
+Key Features:
+
+One-to-one real-time messaging
+
+Online/offline user status indicators
+
+Persistent chat history in MySQL
+
+Responsive, intuitive interface
+Links:
+🔗 GitHub Repository
+ | 🌐 Live Demo
+
+📄 Resume Assist
+
+Technologies Used: React.js, pdf.js
+Description:
+An AI-powered tool that helps users extract and organize information from uploaded PDF resumes to generate structured professional profiles.
+Key Features:
+
+Upload PDF resumes and automatically extract key details (name, email, experience)
+
+Preview extracted data instantly
+
+Simple and clean interface for ease of use
+Links:
+🔗 GitHub Repository
+ | 🌐 Live Demo
+
+
+email:ranidaviranidavi4@gmail.com,8088712634,https://github.com/iqra-jyothi,https://in.linkedin.com/in/jyothi-kumari-04a80a2a5
